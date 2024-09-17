@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vite": "^5.0.13"
+    "vite": "^5.2.14"
   },
   "dependencies": {
     "ts-loader": "^9.5.1",
